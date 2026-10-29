@@ -6,7 +6,9 @@ This is an in-class assessment for CPRG 303 (Mobile App Development). It is a fo
 
 ## Demo
 
-<!-- Add a screenshot or GIF here, e.g. ![Demo](docs/demo.gif) -->
+https://github.com/user-attachments/assets/ada7405e-32fa-4b69-8f93-8a9be982b109
+
+
 
 ## Features
 
